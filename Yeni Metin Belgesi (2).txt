@@ -1,0 +1,12 @@
+🌱Seed: 3884408809
+❔Sürüm: 1.20.1, Java
+
+⬇Kordinatlar ;
+🌵Şeker Kamışı Adası
+     X:455
+     Z:-60
+
+🧟‍♀Zombie Spawner
+     X:64
+     Y:-22
+     Z:-24
